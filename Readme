@@ -12,14 +12,22 @@ Each project is designed to demonstrate practical skills in **data analysis, vis
 ✅ Monthly sales trend  
 ✅ Profit analysis  
 ✅ Filters by Region, Category, and Segment  
-📸 ![Preview](superstore-sales-dashboard/dashboard-preview.png)
-
-> 📂 [View the project folder](./superstore-sales-dashboard)
+📸 ![Preview](superstore-sales-dashboard/dashboard-preview.png)  
+🔗 [View the project folder](./superstore-sales-dashboard)
 
 ---
 
-### 📌 Coming Soon
-- HR Attrition Dashboard
+### 2. HR Attrition Dashboard (IBM Dataset)
+📁 `Monthly-Sales-Trend-Dashboard/`  
+✅ Department-wise attrition %  
+✅ Gender-based analysis  
+✅ Job role segmentation  
+📸 ![Preview](Monthly-Sales-Trend-Dashboard/dashboard-preview.png)  
+🔗 [View the project folder](./Monthly-Sales-Trend-Dashboard)
+
+---
+
+## 📌 Coming Soon
 - Marketing Campaign Analytics
 - Financial KPI Tracker
 - Customizable Budget Planner
@@ -42,4 +50,5 @@ Final Year BTech – Data Science & AI/ML
 🔗 [GitHub](https://github.com/Divyanshi88) | [LinkedIn](https://www.linkedin.com/in/your-profile/)
 
 ---
+
 🎯 *These dashboards were created to sharpen my Excel skills and demonstrate real-world problem solving using data.*
