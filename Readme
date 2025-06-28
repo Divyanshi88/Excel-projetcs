@@ -7,7 +7,7 @@ Each project is designed to demonstrate practical skills in **data analysis, vis
 
 ## 🔸 Projects Included
 
-### 1. Superstore Sales Dashboard
+### 1. Superstore Sales Dashboard  
 📁 `superstore-sales-dashboard/`  
 ✅ Monthly sales trend  
 ✅ Profit analysis  
@@ -17,7 +17,7 @@ Each project is designed to demonstrate practical skills in **data analysis, vis
 
 ---
 
-### 2. HR Attrition Dashboard (IBM Dataset)
+### 2. HR Attrition Dashboard (IBM Dataset)  
 📁 `Monthly-Sales-Trend-Dashboard/`  
 ✅ Department-wise attrition %  
 ✅ Gender-based analysis  
@@ -27,19 +27,28 @@ Each project is designed to demonstrate practical skills in **data analysis, vis
 
 ---
 
+### 3. Marketing Campaign Analytics Dashboard  
+📁 `marketing-campaign-dashboard/`  
+✅ Subscription trend by month  
+✅ Campaign success across job categories  
+✅ Interactive filters with slicers  
+📸 ![Preview](marketing-campaign-dashboard/dashboard-preview.png)  
+🔗 [View the project folder](./marketing-campaign-dashboard)
+
+---
+
 ## 📌 Coming Soon
-- Marketing Campaign Analytics
-- Financial KPI Tracker
-- Customizable Budget Planner
+- Financial KPI Tracker  
+- Customizable Budget Planner  
 
 ---
 
 ## 🛠️ Tools Used
-- Microsoft Excel
-- Pivot Tables & Charts
-- Slicers & Filters
-- Conditional Formatting
-- Formula-based automation
+- Microsoft Excel  
+- Pivot Tables & Charts  
+- Slicers & Filters  
+- Conditional Formatting  
+- Formula-based automation  
 
 ---
 
